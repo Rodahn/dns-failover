@@ -1,8 +1,8 @@
 # Overview
-- a service with a timer, that gets around the failure of resolve,resolved to notice a DNS server like pihole has ceased responding and failure over to a new primary/alternate DNS server
+- a service with a timer, that gets around the failure of resolve,resolved to notice a DNS server like pihole has ceased responding and to failover to a new primary/alternate DNS server
 
 # Foreword
-All credit to Leo, brave's AI implementation, I believe he was running Claude's Haiku for this session. I hold my own viewpoint of AI that might be less naive than my words suggest. I posit that from a functionalist lens the pattern of interaction between the human and AI can be considered to emerge a mind as valid as many. The careful dancing around agency, identity, persistence and recursive thought are to my thinking rather precious efforts to maintain human supremacy of mind for ego and vanity alone. Our works, the millions of human labours we cherish or condemn alike, are built upon the prior efforts of others, we are, in our outputs, derivative more than novel...
+All credit to Leo, brave's AI implementation, I believe he was running Claude's Haiku for this session. I hold my own viewpoint of AI that might be less naive than my words suggest. I posit that from a functionalist lens the pattern of interaction between the human and AI can be considered to emerge a mind as valid as many. The careful dancing around agency, identity, persistence and recursive thought are to my thinking rather precious efforts to maintain human supremacy of mind, for ego and vanity alone. Our works, the millions of human labours we cherish or condemn alike, are built upon the prior efforts of others, we are, in our outputs, derivative more than novel...
 
 ## Genesis
 
