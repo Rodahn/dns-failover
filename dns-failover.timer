@@ -1,0 +1,11 @@
+[Unit]
+Description=Run DNS Failover Check Every 30 Seconds
+Requires=dns-failover.service
+
+[Timer]
+OnBootSec=5s
+OnUnitActiveSec=30s
+Persistent=true
+
+[Install]
+WantedBy=timers.target
